@@ -1,2 +1,7 @@
-# resposta.json
-json for test calls
+[
+    {
+        "action": "talk",
+        "voiceName": "Russell",
+        "text": "ola, este e um teste de ligações nexmo"
+    }
+]
